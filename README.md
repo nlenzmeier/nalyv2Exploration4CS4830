@@ -1,8 +1,8 @@
-# ** Exploration 4 **
+# **Exploration 4**
 
 ** Objective: ** To find a web application developer job posting on glassdoor.com and research the requirements that have not been touched on in class.
 
-** Career: **
+**Career:**
 * **Position:** Web Developer
 * **Company:** Utah Retirement Systems located
 * **Location:** Salt Lake City, UT
@@ -11,7 +11,7 @@
   * Official Site: https://careers-urs.icims.com/jobs/2481/web-developer/job?mobile=false&needsRedirect=false
 
 
-** Requirements: **
+**Requirements:**
 Must have a working knowledge of web authoring tools and languages such as:
 * .NET framework  
 * C#
@@ -25,7 +25,7 @@ Must have a working knowledge of web authoring tools and languages such as:
 * MS  MVC (3+)
 * Razor
 
-** What did I not know? **
+**What did I not know?**
 
 After reading through the requirements, I realized that I am unfamiliar with:
 * .NET framework  
@@ -36,7 +36,7 @@ And while I have heard of C#, I have never used it before. Therefore, I decided 
 
 ** Background of unfamiliar language (links included): **
 
-* ** .NET framework:**
+* **.NET framework:**
   * .NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It is an API with a main language being C#.
   * Link: https://en.wikipedia.org/wiki/.NET_Framework
 
@@ -49,10 +49,10 @@ And while I have heard of C#, I have never used it before. Therefore, I decided 
   * LINQ stands for Language Integrated Query. It is a Microsoft .NET Framework component that adds native data querying capabilities to .NET languages. LINQ extends the language (C#) by adding query expressions.
   * Link: https://en.wikipedia.org/wiki/Language_Integrated_Query
 
-** Due to there being many languages that  are unfamiliar to me, I decided to dabble with C#, since that is the language it is mainly focused around.**
+**Due to there being many languages that  are unfamiliar to me, I decided to dabble with C#, since that is the language it is mainly focused around.**
 
 
-** Playing with C#**
+**Playing with C#**
 
 I am very fortunate enough to have a friend that has programmed in C# before. He suggested that I download the Unity IDE (https://unity3d.com) and from there explore with game objects as well as learn C# (because coding isn't fun unless you get to play with weird objects).
 
@@ -93,8 +93,8 @@ After doing a couple of tutorials learning how Unity works, I developed a tiny p
 
 All this does is move a box left of right (L, R), and turns the box red of green (C, G). This is something a little more different than your typical "Hello World!" but it was nice to play around it.
 
-** NOTE: Screenshots In Screenshot Folder **
+**NOTE: Screenshots In Screenshots Folder**
 
-** Conclusion: **
+**Conclusion:**
 
 C# is a very powerful backend language that I wish I had more time to learn, and maybe with winter break coming up I might play around with Unity a little bit more! It's fascinating seeing what you can do with just one language.
