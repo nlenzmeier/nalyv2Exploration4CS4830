@@ -1,6 +1,6 @@
 # **Exploration 4**
 
-** Objective: ** To find a web application developer job posting on glassdoor.com and research the requirements that have not been touched on in class.
+**Objective:** To find a web application developer job posting on glassdoor.com and research the requirements that have not been touched on in class.
 
 **Career:**
 * **Position:** Web Developer
